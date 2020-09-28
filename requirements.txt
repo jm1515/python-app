@@ -1,0 +1,7 @@
+# Usage : pip install -r /VTIProject/requirements.txt
+
+matplotlib
+pandas
+pathlib
+chardet
+pytest
